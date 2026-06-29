@@ -1,0 +1,130 @@
+canonical_identifier: bkk:krp/KR3ed146/v1
+canonical_location: https://kanripo.org/bkk/KR3ed146/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 經驗選秘
+  identifiers:
+    krp: KR3ed146
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed146.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed146_000.yaml, hash: 'sha256:64d9a468332958428902e5f500d2ea16cb4e40d3d8228688f49edf39aa8d72f5'}
+  - {seq: 1, filename: KR3ed146_001.yaml, hash: 'sha256:57f0d36c8ae0d9d34fa3a5703f5645b70dcf310a9afbe1a4fb7cc3b2d43ca4bf'}
+  - {seq: 2, filename: KR3ed146_002.yaml, hash: 'sha256:ca95ab675cce42cf14d9dbdbe767af0de4e47770e55c8ce0af30ee78de95afd5'}
+  - {seq: 3, filename: KR3ed146_003.yaml, hash: 'sha256:93112f9a93e8a59ebdcd3a2773f7fd68039e2499acf28baca61d646c812d6c5d'}
+  - {seq: 4, filename: KR3ed146_004.yaml, hash: 'sha256:6540f91e938215c169320b8e1958493af14687133accc2a6ce54fc57011dfdf6'}
+  - {seq: 5, filename: KR3ed146_005.yaml, hash: 'sha256:8d118018b8ebf14ae152c9787fe5b912587059a8e27ef4fb08f1a85b716dbe4a'}
+  - {seq: 6, filename: KR3ed146_006.yaml, hash: 'sha256:e90816a26484c4cdb1a3170f08958364281fb9ed93124e6874291cf17b12ddc9'}
+  - {seq: 0, filename: KR3ed146_000.yaml, hash: 'sha256:64d9a468332958428902e5f500d2ea16cb4e40d3d8228688f49edf39aa8d72f5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed146_000.markers.yaml, hash: 'sha256:1b1062cdf9f00bb0e67862bfecf6adda2e4d0d034db8ce8b2b7b65e9910ec41f'}
+  - {seq: 1, role: markers, filename: assets/KR3ed146_001.markers.yaml, hash: 'sha256:b697b814862acd4427a09a464b0ff7fe8a89dee92c6dd8edf35ed255deadde52'}
+  - {seq: 2, role: markers, filename: assets/KR3ed146_002.markers.yaml, hash: 'sha256:0725a0971c0ff14467882521fb0d19dff137e3b2b9b1aec13e037d0c25b2fd03'}
+  - {seq: 3, role: markers, filename: assets/KR3ed146_003.markers.yaml, hash: 'sha256:4099d60f0281857271c439f4189fd819987a42dc858159dc9a158e6edaab5da0'}
+  - {seq: 4, role: markers, filename: assets/KR3ed146_004.markers.yaml, hash: 'sha256:c5cc51fa2e7d07e145a05c747c03c62b51c0040b1f500dfa9928a00ccfa71861'}
+  - {seq: 5, role: markers, filename: assets/KR3ed146_005.markers.yaml, hash: 'sha256:3bbd679c40b4fc2f887b160385f3d1d1dee1cfc0e1b547649fea6fbe5ab58525'}
+  - {seq: 6, role: markers, filename: assets/KR3ed146_006.markers.yaml, hash: 'sha256:8432654121d18a0c47cad799e91e82d8097444ad5da6f4ba059554e987abff65'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed146_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 233
+  label: 經驗選秘序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed146_jc_000-d3.h1s1
+    span:
+    - front
+    - 233
+    - 443
+  label: 經驗選秘後序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed146_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 23762
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed146_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6620
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed146_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 7696
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed146_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 5820
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ed146_jc_005-d8.h1s1
+    span:
+    - body
+    - 0
+    - 13418
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ed146_jc_006-d9.h1s1
+    span:
+    - body
+    - 0
+    - 8586
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed146_jc_000-d10.h1s1
+    span:
+    - body
+    - 0
+    - 400
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:ef3904a8b6a8d6e65a896455ab3cf99ada97b416a713eb482a1f0b9938e785db
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

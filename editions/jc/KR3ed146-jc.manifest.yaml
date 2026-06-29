@@ -1,0 +1,128 @@
+canonical_identifier: bkk:krp/KR3ed146/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed146/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 經驗選秘
+  identifiers:
+    krp: KR3ed146
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed146.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed146_000-jc.yaml, hash: 'sha256:2a38c4a20e51e97fc0ce4fc0c0ebf81c449b6833969948df4ea47584757503bf'}
+  - {seq: 1, filename: KR3ed146_001-jc.yaml, hash: 'sha256:9f5c1b7da08f3e901852d0fdb23d0851cd9903f4f614a0f63228d4d2c625607e'}
+  - {seq: 2, filename: KR3ed146_002-jc.yaml, hash: 'sha256:f694ef2acc5a66d5cfa90538cf09ff13db3f20a8a24c3113b85fac6f60637fce'}
+  - {seq: 3, filename: KR3ed146_003-jc.yaml, hash: 'sha256:aecb4b560e51a89bc209c18460f447c6f81282366a72d485ac19bfe47caf4a10'}
+  - {seq: 4, filename: KR3ed146_004-jc.yaml, hash: 'sha256:2ac13661ea1920e706d6dab123121e4435c05fe9e5b7e476b862246209545344'}
+  - {seq: 5, filename: KR3ed146_005-jc.yaml, hash: 'sha256:673cb3dd2f06a7bf0bc99e2a581f985af468aa4d43185c29a47dcb2883961733'}
+  - {seq: 6, filename: KR3ed146_006-jc.yaml, hash: 'sha256:64a50395af952697c43bc238bd9bb656faaf5a87f66276825ea77a2bc016883a'}
+  - {seq: 0, filename: KR3ed146_000-jc.yaml, hash: 'sha256:720ad98392298022f07809c501283509751b6fc1b15a44754f9c89a238238949'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed146_000-jc.markers.yaml, hash: 'sha256:d7e3396d8adfff3b0d4fe01140527eb5aec2b677e79330a013bd11873b678237'}
+  - {seq: 1, role: markers, filename: assets/KR3ed146_001-jc.markers.yaml, hash: 'sha256:a09b918a46af66ad5bd2f6b834c31b1db89f1aa271b8be61f5b1a949ca59ee3d'}
+  - {seq: 2, role: markers, filename: assets/KR3ed146_002-jc.markers.yaml, hash: 'sha256:0c45e8411e38127b6b899bb4e9c916663887241b2a7cfda3dea7f9442a62bb69'}
+  - {seq: 3, role: markers, filename: assets/KR3ed146_003-jc.markers.yaml, hash: 'sha256:02ddd7dc7726b356b13b0a0b93f96dfc2a764ce3135ed2c1b7043a4b7a770cfd'}
+  - {seq: 4, role: markers, filename: assets/KR3ed146_004-jc.markers.yaml, hash: 'sha256:597a11c2a536785d4bcac62ed622b94d0f054d9969e4da4f86e2c0ff22cd32e9'}
+  - {seq: 5, role: markers, filename: assets/KR3ed146_005-jc.markers.yaml, hash: 'sha256:b50a79b943d0f8d5c16f50be6c11cfea3a9ef782a67d6fe81a1b1617f0424610'}
+  - {seq: 6, role: markers, filename: assets/KR3ed146_006-jc.markers.yaml, hash: 'sha256:983a93d2f04245ad65e11489eb59af826595647119b7ba5626e28f4f99692171'}
+  - {seq: 0, role: markers, filename: assets/KR3ed146_000-jc.markers.yaml, hash: 'sha256:d7e3396d8adfff3b0d4fe01140527eb5aec2b677e79330a013bd11873b678237'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed146_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 233
+  label: 經驗選秘序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed146_jc_000-d3.h1s1
+    span:
+    - front
+    - 233
+    - 443
+  label: 經驗選秘後序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed146_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 23762
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed146_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6620
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed146_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 7696
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed146_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 5820
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ed146_jc_005-d8.h1s1
+    span:
+    - body
+    - 0
+    - 13418
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ed146_jc_006-d9.h1s1
+    span:
+    - body
+    - 0
+    - 8586
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed146_jc_000-d10.h1s1
+    span:
+    - body
+    - 0
+    - 400
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:7b28a56553d35682a371ed3c318cb72660de10e7c885e5d61167f77e489815a3
